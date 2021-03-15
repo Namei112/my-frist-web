@@ -5,24 +5,24 @@ image: assets/images/7a473396-05c8-43f6-804a-0cebcb1275b2.png
 featured: true
 ---
 #### 棒球少女--瓦其惹果   
-我是瓦其惹果，出生于2009.12.13，我是2020年9月加入强棒基地的，我的老家在四川凉山州，我热爱学习，训练也很棒，和队员们相处友善，是大家都爱的小伙伴。  
-![IMG_5687.JPG](..assets/images/IMG_5687.JPG)  
+##### 我是瓦其惹果，出生于2009.12.13，我是2020年9月加入强棒基地的，我的老家在四川凉山州，我热爱学习，训练也很棒，和队员们相处友善，是大家都爱的小伙伴。  
+![IMG_5687](..assets/images/IMG_5687.JPG)  
 * 小伙伴们叫她“果果”。     
-![image%20(2).png](..assets/images/[image%20(2).png) 
+![image%20(2)](..assets/images/[image%20(2).png) 
 *  最喜欢的颜色是粉色，最喜欢的动物是小兔子，纯真可爱。在涂色书上恰好找到了一只粉色小兔子，开心～     
-![image%20(3).png](..assets/images/image%20(3).png)      
-![image%20(8).png](..assets/images/image%20(8).png)      
+![image%20(3)](..assets/images/image%20(3).png)      
+![image%20(8)](..assets/images/image%20(8).png)      
 * 果果的空间想象力和动手能力很强，用乐高积木建了一所建筑，建筑前面的台阶、小花园和凉亭，设计得很巧妙。     
-![ad9c9706d585c6adbe2c0efed580351.jpg](..assets/images/ad9c9706d585c6adbe2c0efed580351.jpg)  
+![ad9c9706d585c6adbe2c0efed580351](..assets/images/ad9c9706d585c6adbe2c0efed580351.jpg)  
   
-![d846e562-f67c-4e40-8486-503ce8406a47.png](..assets/images/d846e562-f67c-4e40-8486-503ce8406a47.png)   
+![d846e562-f67c-4e40-8486-503ce8406a47](..assets/images/d846e562-f67c-4e40-8486-503ce8406a47.png)   
   
 * 果果的行动力很强、敢想敢干。在室外教姐姐打棒球、传球、接球，选取器材、耐心讲解和“陪练”，看起来很有专业范。    
-![image.png](..assets/images/image.png)   
-![image%20(1).png](..assets/images/image%20(1).png)     
+![image](..assets/images/image.png)   
+![image%20(1)](..assets/images/image%20(1).png)     
 *  初见有些羞涩，相处后热心、细腻、活泼，始终特别有礼貌。     
-![98526d4c-1a6d-4ce4-a000-c421f10f38d9.png](..assets/images/98526d4c-1a6d-4ce4-a000-c421f10f38d9.png)    
-![WEN09378.JPG](..assets/images/WEN09378.JPG)    
+![98526d4c-1a6d-4ce4-a000-c421f10f38d9](..assets/images/98526d4c-1a6d-4ce4-a000-c421f10f38d9.png)    
+![WEN09378](..assets/images/WEN09378.JPG)    
 * 笑起来脸颊有小酒窝，清新、可爱。眉宇间含着英气，小小的身体，蕴藏着强韧的力量感。挥棒和接球的样子～帅！
 其他同学记录的信息内容
 > Q：平时的兴趣爱好有哪些？     
